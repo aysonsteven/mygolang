@@ -1,0 +1,2 @@
+# mygolang
+sample go project
